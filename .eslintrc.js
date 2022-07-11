@@ -8,6 +8,7 @@ module.exports = {
     'eslint:recommended',
     '@vue/typescript/recommended'
   ],
+  plugins:["@typescript-eslint"],
   parserOptions: {
     ecmaVersion: 2020
   },
